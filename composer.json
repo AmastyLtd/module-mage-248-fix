@@ -4,12 +4,12 @@
     "require": {
         "php": ">=7.4",
         "amasty/base": ">=1.19.1",
-        "magento/framework": "103.0.8 || 103.0.8-p1",
+        "magento/framework": "103.0.8 || 103.0.8-p1 || 103.0.8-p2",
         "wikimedia/less.php": "^5.3.1"
     },
     "homepage": "https://amasty.com/",
     "type": "magento2-module",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "proprietary",
     "autoload": {
         "files": [
