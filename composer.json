@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.4",
         "amasty/base": ">=1.19.1",
-        "magento/framework": "~103.0.8.0",
+        "magento/framework": ">=103.0.8-p1 <103.1.0",
         "wikimedia/less.php": "^5.3.1"
     },
     "homepage": "https://amasty.com/",
