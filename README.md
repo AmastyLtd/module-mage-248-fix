@@ -65,15 +65,6 @@
         <pre><code>php bin/magento cache:flush</code></pre>
     </li>
 </ol>
-<h4>Cloud environment</h4>
-<p>
-    In the Magento Cloud environment, the file system is read-only. 
-    Therefore, you need to manually replace the file 
-    <code>[magento-root-folder]/lib/web/css/source/lib/_responsive.less</code> 
-    with the one provided by the module: 
-    <code>[Amasty_Mage248Fix]/lib/web/css/source/lib/_responsive.less</code>, 
-    before pushing your changes to the branch.
-</p>
 
 <h2>Requirenements</h2>
 <p>This module require:</p>

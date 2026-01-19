@@ -18,5 +18,13 @@
         "psr-4": {
             "Amasty\\Mage248Fix\\": ""
         }
+    },
+    "extra": {
+        "map": [
+            [
+                "lib/web/css",
+                "lib/web/css"
+            ]
+        ]
     }
 }
